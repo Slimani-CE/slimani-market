@@ -1,0 +1,9 @@
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/Slimani-CE/slimani-market-inventory-service
+[submodule "customer-service"]
+	path = customer-service
+	url = https://github.com/Slimani-CE/slimani-market-customer-service
+[submodule "angular-frontend"]
+	path = angular-frontend
+	url = https://github.com/Slimani-CE/slimani-market-angular-frontend
